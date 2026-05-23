@@ -1,0 +1,6 @@
+{
+  "name": "Apex Scalper Trading Bot",
+  "description": "Simulation platform and dashboard for Apex Scalper Trading Bot on Pocket Option featuring multi-indicator charts, dynamic risk management, automatic trading rules, and AI advisory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
